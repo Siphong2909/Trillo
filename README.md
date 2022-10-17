@@ -1,6 +1,6 @@
 # Trillo
 
-https://phongnguyen.github.io/trillo/  
+https://phongnguyen-trillo.netlify.app 
 The fictional all-in-one booking website  
 Instructor: Jonas Schmedtmann
 
